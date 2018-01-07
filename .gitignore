@@ -41,9 +41,11 @@ MANIFEST
 
 # Installer logs
 pip-log.txt
+# delet this directory.txt
 pip-delete-this-directory.txt
 
 # Unit test / coverage reports
+# will never use these but meh
 htmlcov/
 .tox/
 .coverage
@@ -55,26 +57,32 @@ coverage.xml
 .hypothesis/
 
 # Translations
+# no
 *.mo
 *.pot
 
 # Django stuff:
+# no
 *.log
 .static_storage/
 .media/
 local_settings.py
 
 # Flask stuff:
+# NO
 instance/
 .webassets-cache
 
 # Scrapy stuff:
+# maybe
 .scrapy
 
 # Sphinx documentation
+# NOOOOO
 docs/_build/
 
 # PyBuilder
+# **NOOOOOOOOO**
 target/
 
 # Jupyter Notebook
